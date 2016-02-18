@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=./lib/sqljdbc4.jar -DgroupId=com.ms -DartifactId=mssql -Dversion=4.0 -Dpackaging=jar
